@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleListView</string>
+    <string-array name="data">
+        <item>JavaScript</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>C/CPP</item>
+        <item>PHP</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>C#</item>
+        <item>Ruby</item>
+        <item>Haskell</item>
+        <item>Objective-C</item>
+        <item>Go</item>
+        <item>Rust</item>
+        <item>Elm</item>
+    </string-array>
+</resources>
